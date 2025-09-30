@@ -42,8 +42,10 @@ def test_get_student_num_classes():
     result = kate.get_num_classes()
 
     # Assert
+    # Assert result is 2
     
     assert result == 2
+
 
 
 
